@@ -1,0 +1,10 @@
+swagger:
+  title: Swagger-UI
+  description: Java后台管理界面
+  version: 1.0
+
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.31.66/lp
+    username: root
+    password: root
